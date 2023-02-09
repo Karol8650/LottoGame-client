@@ -63,10 +63,8 @@ The user can become a lottery winner if he hit at least three numbers.
 - Just execute the following command in the folder mentioned above <br>
   ``
   docker compose up
-  `` 
-<br>
-(all images will be pulled from Docker Hub and the application will start)
-<br>
+  ``
+(all images will be pulled from Docker Hub and the application will start) <br>
 - You can access the app at `http://localhost:4200` in your web browser
 
 
