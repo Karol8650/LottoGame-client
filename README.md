@@ -37,10 +37,10 @@ The user can become a lottery winner if he hit at least three numbers.
 ## Technologies Used
 
 
-Frontend:<br>
-<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"> &nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> &nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> &nbsp;
+### Frontend:<br>
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt=""> &nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=""> &nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt=""> &nbsp;
 
 
 
@@ -67,7 +67,6 @@ Frontend:<br>
 <br>
 (all images will be pulled from Docker Hub and the application will start)
 <br>
-  <br>
 - You can access the app at `http://localhost:4200` in your web browser
 
 
