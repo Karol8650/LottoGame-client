@@ -13,7 +13,7 @@ https://github.com/karolkraw/LottoGame-server
 
 ## General Information
 LottoGame is an implementation of the well-known Lotto Lottery.
-The user inputs six distinct numbers from range 1-99 and receives ticket with unique ID and draw date.
+The user provides six distinct numbers from range 1-99 and receives ticket with unique ID and draw date.
 Results can be checked right after the draw date.
 The winning numbers are generated based on configured scheduler that runs every Saturday at 12 p.m.
 The user can become a lottery winner if he hit at least three numbers.
