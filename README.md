@@ -1,4 +1,4 @@
-# LottoGame - client
+# LottoGame - frontend
 
 ## Server
 https://github.com/karolkraw/LottoGame-server
