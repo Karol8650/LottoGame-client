@@ -19,20 +19,6 @@ The winning numbers are generated based on configured scheduler that runs every 
 The user can become a lottery winner if he hit at least three numbers.
 
 
-## Specification
-
-- Java with Spring Boot for Backend
-- Angular for Frontend
-- Modular monolith hexagonal architecture with one module extracted as microservice
-- Netflix-Eureka server used as discovery service
-- Spring Data MongoDB used for storing tickets and lottery results
-- Facade design pattern
-- Unit Tests with Junit 5 and Mockito
-- Integration Tests with TestContainers, TestRestTemplate and WireMock
-- All modules containerized in Docker
-- Spring Boot Scheduler used for generating winning numbers
-
-
 
 ## Technologies Used
 
